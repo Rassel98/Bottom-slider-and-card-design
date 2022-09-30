@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+
+
+<img src="https://user-images.githubusercontent.com/101389853/193309935-1ce607a8-a448-403e-887c-38e75e0b283b.gif" alt="Girl in a jacket" height="600">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
